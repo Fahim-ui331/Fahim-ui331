@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋 I'm Fahim  
 
 I’m **Md Fahim Hosen** — a final-year Computer Science & Engineering student and web developer focused on building clean, functional applications.
 
